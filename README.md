@@ -26,6 +26,26 @@
 
 **Sample data** is included so you can see it working on day one, and it's all marked so it's easy to clear out.
 
+## Screenshots
+
+Taken from the template itself, with its sample data.
+
+| Home dashboard | This week |
+|---|---|
+| <img src="assets/dashboard-home.png" alt="Founder OS home dashboard"> | <img src="assets/dashboard-this-week.png" alt="Follow-ups due, active projects and open tasks"> |
+| **Clients pipeline** | **Projects board** |
+| <img src="assets/clients-pipeline.png" alt="Clients pipeline board"> | <img src="assets/projects-board.png" alt="Projects board by status"> |
+| **A project page** | **SOP Library** |
+| <img src="assets/project-page.png" alt="Project page with its tasks"> | <img src="assets/sop-library.png" alt="SOP Library"> |
+
+<details>
+<summary>Invoices and hiring</summary>
+
+<img src="assets/invoices.png" alt="Invoices database">
+
+<img src="assets/hiring-pipeline.png" alt="Hiring pipeline board">
+</details>
+
 ## How you get it
 
 1. Buy on [Whop](https://whop.com/synveil/founder-os-92/). Access is instant.
